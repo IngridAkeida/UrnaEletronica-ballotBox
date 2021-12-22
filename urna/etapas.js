@@ -7,16 +7,16 @@ let etapas = [
                 numero: '38111',
                 nome: 'Blake Carrington',
                 partido: 'ABC',
-                foto: [
-                    { url:'38111.png', legenda: 'Vereador'}
+                fotos: [
+                    {url:'38111.png', legenda: 'Vereador'}
                 ]
             },
             {
                 numero: '78000',
                 nome: 'Alexis Colby',
                 partido: 'DEF',
-                foto: [
-                    { url:'78000.jpg', legenda: 'Vereador'}
+                fotos: [
+                    {url:'78000.jpg', legenda: 'Vereador'}
                 ] 
             },
         ]
@@ -30,7 +30,7 @@ let etapas = [
                 nome: 'Fallon Carrington',
                 partido: 'ABC',
                 vice: 'Liam Ridley',
-                foto: [
+                fotos: [
                     { url:'38.jpg', legenda: 'Prefeito'},
                     { url:'38vice.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
@@ -40,7 +40,7 @@ let etapas = [
                 nome: 'Jeff Colby',
                 partido: 'DEF',
                 vice: 'Monica Colby',
-                foto: [
+                fotos: [
                     { url:'78.JFIF', legenda: 'Prefeito'},
                     { url:'38vice.jpg', legenda: 'Vice-Prefeito', small: true}
                 ] 

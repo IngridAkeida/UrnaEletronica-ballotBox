@@ -171,7 +171,7 @@ body{
 }
 
 .div-1-image.small{
-    width: 60%;
+    width: 50%;
     font-size: 12px;
 }
 
@@ -184,5 +184,16 @@ body{
 }
 
 .aviso--grande {
-    
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.aviso--gigante {
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
